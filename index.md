@@ -20,11 +20,6 @@ This site is a Zettelkasten, a way for me to [think and develop ideas out in the
 - Remote work culture & process improvement
 - Personal productivity & focus
 
-### More about me
-- 👨🏻‍💼 **[Resume][15]**
-- ⚒️ **[[Tools stack]]**
-- 🎼 **[[Finished works]]**
-
 [1]:	https://aliciagreen.co
 [2]:	https://www.instagram.com/p/CDeAU24JQgU/?igshid=1fvajh00evbb9
 [3]:	mailto:brandonlucasgreen@gmail.com
