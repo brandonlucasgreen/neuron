@@ -22,11 +22,6 @@ I sometimes refine and publish those ideas as an (ideally) weekly newsletter cal
 - Remote work culture & process improvement
 - Personal productivity & focus
 
-### More about me
-- 👨🏻‍💼 **[Resume][16]**
-- ⚒️ **[[Tools stack]]**
-- 🎼 **[[Finished works]]**
-
 [1]:	https://aliciagreen.co
 [2]:	https://www.instagram.com/p/CDeAU24JQgU/?igshid=1fvajh00evbb9
 [3]:	/impulse.html
