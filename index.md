@@ -4,7 +4,20 @@ Hey! I’m a product manager & builder, music maker/snob, remote work advocate, 
 
 This site is a Zettelkasten, a way for me to [think and develop ideas out in the open][3]. 
 
-I sometimes refine and publish those ideas as an (ideally) weekly newsletter called **tone deaf color blind.** You can subscribe [here](https://buttondown.email/tonedeafcolorblind).
+I sometimes refine and publish those ideas as an (ideally) weekly newsletter called **tone deaf color blind.** You can subscribe [here](https://buttondown.email/tonedeafcolorblind):
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/tonedeafcolorblind"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/tonedeafcolorblind', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="hidden" value="1" name="embed" />
+  <input type="submit" value="Subscribe" />
+</form>
 
 > Get in touch: [Email me][4] | [Instagram][5] | [Twitter][6] | [LinkedIn][7] | [Book a call][8]
 
