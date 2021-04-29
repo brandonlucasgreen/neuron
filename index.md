@@ -2,9 +2,7 @@
 ![brandon][image-1]
 Hey! I’m a product manager & builder, music maker/snob, remote work advocate, writer, husband and DIY enthusiast. I live and work in central Massachusetts with my [wife][1] and [dog][2]. I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.
 
-This site is a Zettelkasten, a way for me to [think and develop ideas out in the open][3]. 
-
-I sometimes refine and publish those ideas as an (ideally) weekly newsletter called **tone deaf color blind.** You can subscribe [here](https://buttondown.email/tonedeafcolorblind):
+I sometimes refine and publish ideas as an (ideally) weekly newsletter called **tone deaf color blind.** You can subscribe [here](https://buttondown.email/tonedeafcolorblind):
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/tonedeafcolorblind"
@@ -45,7 +43,7 @@ I sometimes refine and publish those ideas as an (ideally) weekly newsletter cal
 [8]:	https://calendly.com/brandonlucasgreen/30min
 [9]:	https://abstract.com
 [10]:	https://sophomoresmusic.com
-[11]:	https://tonedeafcolorblind.substack.com
+[11]:	https://buttondown.email/tonedeafcolorblind
 [12]:	https://wayfair.com
 [13]:	https://custommade.com
 [14]:	http://drops.nyc/
