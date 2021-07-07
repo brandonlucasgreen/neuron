@@ -20,11 +20,11 @@ I sometimes refine and publish ideas as an (ideally) weekly newsletter called **
 > Get in touch: [Email me][4] | [Instagram][5] | [Twitter][6] | [LinkedIn][7] | [Book a call][8]
 
 ### What I'm working on
-- 🏗️ Building design collaboration products @ **[Abstract][9]**
+- 🏗️ Leading experimentation products & culture @ **[Wayfair][12]**
 - 🎹 Producing new music @ **[Sophomores][10]**
 - 🖊️ Writing occasionally @ **[tone deaf / color blind][11]**
 
-*Previously: [🛒 Wayfair][12], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
+*Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
 
 ### Things I can help with
 - Product strategy
