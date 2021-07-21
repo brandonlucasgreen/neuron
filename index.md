@@ -2,6 +2,15 @@
 ![brandon][image-1]
 Hey! I’m a product manager & builder, music maker/snob, remote work advocate, writer, husband and DIY enthusiast. I live and work in central Massachusetts with my [wife][1], daughter and [doggo][2]. I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.
 
+> Get in touch: [Email me][4] | [Instagram][5] | [Twitter][6] | [LinkedIn][7] | [Book a call][8]
+
+### What I'm working on
+- 🏗️ Leading experimentation products & culture @ **[Wayfair][12]**
+- 🎹 Producing new music @ **[Sophomores][10]**
+- 🖊️ Writing occasionally 
+
+*Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
+
 ### tone deaf color blind
 I sometimes refine and publish ideas on tech, working and self-improvement as a newsletter called **tone deaf color blind.** It's been on a sort of hitus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind) or subscribe below: 
 
@@ -17,15 +26,6 @@ I sometimes refine and publish ideas on tech, working and self-improvement as a 
   <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" />
 </form>
-
-> Get in touch: [Email me][4] | [Instagram][5] | [Twitter][6] | [LinkedIn][7] | [Book a call][8]
-
-### What I'm working on
-- 🏗️ Leading experimentation products & culture @ **[Wayfair][12]**
-- 🎹 Producing new music @ **[Sophomores][10]**
-- 🖊️ Writing occasionally 
-
-*Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
 
 ### Things I can help with
 - Product strategy
