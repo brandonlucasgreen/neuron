@@ -27,6 +27,7 @@ I sometimes refine and publish ideas on tech, working and self-improvement as a 
   <input type="submit" value="Subscribe" />
 </form>
 
+
 ### Things I can help with
 - Product strategy
 - Product discovery & user research
