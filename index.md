@@ -11,6 +11,13 @@ Hey! I’m a product manager & builder, music maker/snob, remote work advocate, 
 
 *Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
 
+### Things I can help with
+- Product strategy
+- Product discovery & user research
+- PM mentorship & coaching
+- Remote work culture & process improvement
+- Personal productivity & focus
+
 ### tone deaf color blind
 I sometimes refine and publish ideas on tech, working and self-improvement as a newsletter called **tone deaf color blind.** It's been on a sort of hitus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind) or subscribe below: 
 
@@ -28,12 +35,6 @@ I sometimes refine and publish ideas on tech, working and self-improvement as a 
 </form>
 
 
-### Things I can help with
-- Product strategy
-- Product discovery & user research
-- PM mentorship & coaching
-- Remote work culture & process improvement
-- Personal productivity & focus
 
 [1]:	https://aliciagreen.co
 [2]:	https://www.instagram.com/p/CDeAU24JQgU/?igshid=1fvajh00evbb9
