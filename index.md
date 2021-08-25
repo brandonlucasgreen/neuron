@@ -19,7 +19,7 @@ Hey! I’m a product manager & builder, music maker/snob, remote work advocate, 
 - Personal productivity & focus
 
 ### tone deaf color blind
-I sometimes refine and publish ideas on tech, working and self-improvement as a newsletter called **tone deaf color blind.** It's been on a sort of hitus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind) or subscribe below: 
+I sometimes refine and publish ideas on tech, working and self-improvement as a newsletter called **tone deaf color blind.** It's been on a sort of hiatus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind) or subscribe below: 
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/tonedeafcolorblind"
