@@ -2,7 +2,7 @@
 ![brandon][image-1]
 Hey! I’m a product manager & builder, music maker/snob, remote work advocate, writer, husband and DIY enthusiast. I live and work in central Massachusetts with my [wife][1], daughter and [doggo][2]. I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.
 
-> Get in touch: [Email me][4] | [Instagram][5] | [Twitter][6] | [LinkedIn][7] | [Book a call][8]
+> Get in touch: [Book time][8] | [Email me][4] | [Instagram][5] | [Twitter][6] | [LinkedIn][7]
 
 ### What I'm working on
 - 🏗️ Leading experimentation products & culture @ **[Wayfair][12]**
