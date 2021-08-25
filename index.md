@@ -40,7 +40,7 @@ I sometimes refine and publish ideas as an (ideally) weekly newsletter called **
 [5]:	https://instagram.com/brandonlucasgreen
 [6]:	https://twitter.com/sphmrs
 [7]:	https://linkedin.com/in/brandonlgreen
-[8]:	https://calendly.com/brandonlucasgreen/30min
+[8]:	https://tidycal.com/brandonlucasgreen/30-minute-meeting
 [9]:	https://abstract.com
 [10]:	https://sophomoresmusic.com
 [11]:	https://buttondown.email/tonedeafcolorblind
