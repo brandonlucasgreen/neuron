@@ -1,25 +1,18 @@
 # brandon lucas green
 ![brandon][image-1]
-Hey! I’m a product strategist & builder, music maker/snob, remote work advocate, writer, husband, father and DIY enthusiast. I live and work in central Massachusetts with my [wife][1], daughter and [doggo][2]. I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people. 🤘🏻
+Hey! I’m a product leader, music maker, remote work advocate, writer, husband, father and DIY enthusiast. I live and work in central Massachusetts with my [wife][1], daughter and [doggo][2]. I love digging into the deeply human psychology behind the problems we face and thinking toward the right solutions. 🤘🏻
 
 > Get in touch: [Book time][8] | [Email me][4] | [Instagram][5] | [Twitter][6] | [LinkedIn][7]
 
 ### What I'm working on
 - 🏗️ Leading experimentation products & culture @ **[Wayfair][12]**
-- 🎹 Producing new music @ **[Sophomores][10]**
-- 🖊️ Writing occasionally 
+- 🎹 PWriting & releasing music @ **[Sophomores][10]**
+- 🖊️ Writing occasionally @ **[tone deaf color blind][11]**
 
 *Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
 
-### Things I can help with
-- Product strategy
-- Product discovery & user research
-- PM mentorship & coaching
-- Remote work culture & process improvement
-- Personal productivity & focus
-
 ### tone deaf color blind
-I sometimes refine and publish ideas on tech, working and self-improvement as a newsletter called **tone deaf color blind.** It's been on a sort of hiatus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind) or subscribe below: 
+I sometimes refine and publish ideas on tech, working and self-improvement as a newsletter called **tone deaf color blind.** It's been on a sort of hiatus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind/archive) or subscribe below: 
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/tonedeafcolorblind"
