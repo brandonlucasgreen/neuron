@@ -5,7 +5,7 @@ Hey! I’m a product leader, music maker, remote work advocate, writer, husband,
 
 ### What I'm working on
 - 🏗️ Leading experimentation products & culture @ **[Wayfair][12]**
-- 🎹 PWriting & releasing music @ **[Sophomores][10]**
+- 🎹 Writing music as **[Sophomores][10]**
 - 🖊️ Writing occasionally @ **[tone deaf color blind][11]**
 
 *Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
