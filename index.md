@@ -22,11 +22,12 @@ I sometimes refine and publish ideas on tech, working and self-improvement in th
   <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" />
 </form>
+<br />
 
 ### [sophomores &rarr;][10]
-I sometimes write songs and release them under the alias **Sophomores**. I've released 5 albums to date, mostly in the genres of synthpop, industrial rock and alternative rock. All of my music is available online for free on Bandcamp, [Spotify](https://open.spotify.com/artist/311HUT6dPGAfIekpDFD45o) and [Apple Music](https://music.apple.com/us/artist/sophomores/676742660).
+I sometimes write songs and release them under the alias **Sophomores**. I've released 6 albums to date, mostly in the genres of synthpop, industrial rock and alternative rock. All of my music is available online for free on Bandcamp, [Spotify](https://open.spotify.com/artist/311HUT6dPGAfIekpDFD45o) and [Apple Music](https://music.apple.com/us/artist/sophomores/676742660).
 
-<br />
+
 
 
 
