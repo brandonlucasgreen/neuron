@@ -44,4 +44,4 @@ I sometimes refine and publish ideas on tech, working and self-improvement as a 
 [15]:	https://sonicbids.com
 [16]:	static/brandongreen_resume.pdf
 
-[image-1]:	static/brandon.jpeg
+[image-1]:	static/brandon-mini.jpeg
