@@ -28,6 +28,8 @@ I sometimes refine and publish ideas on tech, working and self-improvement as a 
 
 <br />
 
+<iframe src="https://buttondown.email/tonedeafcolorblind/archive/"></iframe>
+
 ![brandon][image-1]
 
 
