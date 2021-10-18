@@ -5,12 +5,12 @@ Hey! I’m a product leader, music maker, remote work advocate, writer, husband,
 
 ### What I'm working on
 - 🏗️ Leading experimentation products & culture @ **[Wayfair][12]**
-- 🎹 Writing music as **[Sophomores][10]**
-- 🖊️ Writing occasionally @ **[tone deaf color blind][11]**
+- 🎹 Making music as **[Sophomores][10]**
+- 🖊️ Writing occasionally
 
 *Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
 
-### tone deaf color blind
+### [tone deaf color blind &rarr;][10]
 I sometimes refine and publish ideas on tech, working and self-improvement as a newsletter called **tone deaf color blind.** It's been on a sort of hiatus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind/archive) or subscribe below: 
 
 <form
