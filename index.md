@@ -5,10 +5,10 @@ Hey! I’m a product leader, music maker, remote work advocate, writer, husband 
 
 I'm currently employed by [Wayfair][12], leading the product team managing our experimentation platform, tools and culture. I also enjoy pour-over coffee, DIYing my house, [making music][10] and occasionally writing.
 
-*Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
+*Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Drops][14], [📢 Sonicbids][15]*
 
 ### [tone deaf color blind &rarr;][11]
-I sometimes refine and publish ideas on tech, working and self-improvement as a newsletter called **tone deaf color blind.** It's been on a sort of hiatus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind/archive) or subscribe below: 
+I sometimes refine and publish ideas on tech, working and self-improvement in the face of impostor syndrome as a newsletter called **tone deaf color blind.** It's been on a sort of hiatus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind/archive) or subscribe below: 
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/tonedeafcolorblind"
@@ -23,7 +23,12 @@ I sometimes refine and publish ideas on tech, working and self-improvement as a 
   <input type="submit" value="Subscribe" />
 </form>
 
+### [sophomores &rarr;][10]
+I sometimes write songs and release them under the alias **Sophomores**. I've released 5 albums to date, mostly in the genres of synthpop, industrial rock and alternative rock. All of my music is available online for free on Bandcamp, [Spotify](https://open.spotify.com/artist/311HUT6dPGAfIekpDFD45o) and [Apple Music](https://music.apple.com/us/artist/sophomores/676742660).
+
 <br />
+
+
 
 
 [1]:	https://aliciagreen.co
