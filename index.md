@@ -1,4 +1,4 @@
-# brandon lucas green
+## brandon lucas green
 Hey! I’m a product leader, music maker, remote work advocate, writer, husband, father and DIY enthusiast. I live and work in central Massachusetts with my [wife][1], daughter and [doggo][2]. I love digging into the deeply human psychology behind the problems we face and thinking toward the right solutions. 🤘🏻
 
 > Get in touch: **[Book time][8]** | **[Email me][4]** | **[Twitter][6]** | **[LinkedIn][7]**
@@ -25,6 +25,8 @@ I sometimes refine and publish ideas on tech, working and self-improvement as a 
   <input type="hidden" value="1" name="embed" />
   <input type="submit" value="Subscribe" />
 </form>
+
+<br />
 
 ![brandon][image-1]
 
