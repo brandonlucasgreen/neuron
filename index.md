@@ -1,16 +1,13 @@
 # brandon lucas green
-Hey! I’m a product leader, music maker, remote work advocate, writer, husband, father and DIY enthusiast. I live and work in central Massachusetts with my [wife][1], daughter and [doggo][2]. I love digging into the deeply human psychology behind the problems we face and thinking toward the right solutions. 🤘🏻
+Hey! I’m a product leader, music maker, remote work advocate, writer, husband and father. I live and work in central Massachusetts with my [wife][1], daughter and [doggo][2]. I love digging into the deeply human psychology behind the problems we face and thinking toward the right solutions. 🤘🏻
+
+I'm currently employed by [Wayfair][12], leading the product team managing our experimentation platform, tools and culture. I also enjoy pour-over coffee, DIYing my house, making music and occasionally writing.
 
 [Book time][8] | [Email me][4] | [Twitter][6] | [LinkedIn][7]
 
-### what I'm working on
-- 🏗️ Leading experimentation products & culture @ **[Wayfair][12]**
-- 🎹 Making music as **[Sophomores][10]**
-- 🖊️ Writing occasionally
-
 *Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Audiodrops][14], [📢 Sonicbids][15]*
 
-### [tone deaf color blind &rarr;][10]
+### [tone deaf color blind &rarr;][11]
 I sometimes refine and publish ideas on tech, working and self-improvement as a newsletter called **tone deaf color blind.** It's been on a sort of hiatus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind/archive) or subscribe below: 
 
 <form
