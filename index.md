@@ -3,7 +3,7 @@ Hey! I’m a product leader, music maker, remote work advocate, writer, husband,
 
 [Book time][8] | [Email me][4] | [Twitter][6] | [LinkedIn][7]
 
-### What I'm working on
+### what I'm working on
 - 🏗️ Leading experimentation products & culture @ **[Wayfair][12]**
 - 🎹 Making music as **[Sophomores][10]**
 - 🖊️ Writing occasionally
