@@ -8,7 +8,7 @@ I'm currently employed by [Wayfair][12], leading the product team managing our e
 *Previously: [🎨 Abstract][9], [💍 CustomMade][13], [🎧 Drops][14], [📢 Sonicbids][15]*
 
 ### [tone deaf color blind &rarr;][11]
-I sometimes refine and publish ideas on tech, working and self-improvement in the face of impostor syndrome as a newsletter called **tone deaf color blind.** It's been on a sort of hiatus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here](https://buttondown.email/tonedeafcolorblind/archive) or subscribe below: 
+I sometimes refine and publish ideas on tech, working and self-improvement in the face of impostor syndrome as a newsletter called **tone deaf color blind.** It's been on a sort of hiatus due to the birth of my daughter, but all my previous writing is online for your enjoyment. You can read [here][11] or subscribe below: 
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/tonedeafcolorblind"
@@ -44,7 +44,7 @@ I sometimes write songs and release them under the alias **Sophomores**. I've re
 [8]:	https://tidycal.com/brandonlucasgreen/30-minute-meeting
 [9]:	https://abstract.com
 [10]:	https://sophomoresmusic.com
-[11]:	https://buttondown.email/tonedeafcolorblind
+[11]:	https://buttondown.email/tonedeafcolorblind/archive
 [12]:	https://wayfair.com
 [13]:	https://custommade.com
 [14]:	http://drops.nyc/
