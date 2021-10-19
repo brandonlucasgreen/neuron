@@ -1,7 +1,7 @@
 # ![brandon](static/brandon-mini.jpeg) brandon lucas green
 Hey! I’m a product leader, music maker, remote work advocate, writer, husband and father. I live and work in central Massachusetts with my [wife][1], daughter and [doggo][2]. I love digging into the deeply human psychology behind the problems we face and thinking toward the right solutions. 🤘🏻
 
-[Book time][8] | [Email me][4] | [Twitter][6] | [LinkedIn][7]
+[[Blog]] | [Book time][8] | [Email me][4] | [Twitter][6] | [LinkedIn][7]
 
 I'm currently employed by [Wayfair][12], leading the product team managing our experimentation platform, tools and culture. I also enjoy pour-over coffee, DIYing my house, [making music][10] and occasionally writing.
 
