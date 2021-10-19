@@ -1,0 +1,1 @@
+<p>Dear Medium, I have a product thought for you. Do you have the ability to track which articles I’ve read or not? I’m pretty sure you can, since the Stats page exists. If so, could you not show posts I’ve already read in “My Top Stories?” Maybe in a new section called “recently viewed” instead? […]</p>

@@ -1,0 +1,1 @@
+<p>There’s an interview with Annie Clark and David Byrne in which they describe their working relationship for Love This Giant: DB: This was a more intertwined collaboration than most I’ve done. In many ways it was more democratic — we were constantly bouncing what we were doing off one another. Which is creatively great, but also […]</p>

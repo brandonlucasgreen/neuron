@@ -1,0 +1,1 @@
+<p>When I started product managing, I quickly came across and fell in love with the Cranky Product Manager blog. It was everything that I had just started to experience as a new PM — the constant fight for attention in the roadmap, the terribly-defined feature requests, the working ridiculously late for reasons I couldn’t really justify for […]</p>

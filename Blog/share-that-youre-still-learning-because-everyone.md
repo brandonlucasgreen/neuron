@@ -1,0 +1,1 @@
+<p>The Internet is amazing, and Twitter is amazing. I know someone just wrote a post about how Twitter is dying, but the communities of people who are using it in the correct, intended way are great. I bring this up because earlier today, for the first time, I tweeted something that sort of went viral. […]</p>
