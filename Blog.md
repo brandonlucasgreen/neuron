@@ -1,2 +1,2 @@
-### blog
+# blog
 This is my blog.
