@@ -1,3 +1,8 @@
+---
+date: 2020-05-12
+---
+
+# Therapy for product managers
 <p>So I’ve been busy making a&nbsp;<a href="http://producttherapy.show/">podcast</a>.</p><a class="image-link image2 image2-1456-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c307174-e062-4dd8-99bb-171bc2248b5d_6000x6000.png"><img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5c307174-e062-4dd8-99bb-171bc2248b5d_6000x6000.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5c307174-e062-4dd8-99bb-171bc2248b5d_6000x6000.png&quot;,&quot;height&quot;:1456,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:350340,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt=""><style>
           a.image2.image-link.image2-1456-1456 {
             padding-bottom: 100%;
