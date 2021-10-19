@@ -6,5 +6,5 @@
 , theme = "black"
 -- This is used in the "edit" button
 , editUrl = Some "https://github.com/brandonlucasgreen/neuron/edit/master/"
-, plugins = [ "neuronignore", "uptree", "feed", "tags", "links"]
+, plugins = [ "neuronignore", "uptree", "dirtree", "feed", "tags", "links"]
 }
